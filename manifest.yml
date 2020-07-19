@@ -1,0 +1,8 @@
+applications:
+- domain: null
+  host: null
+  memory: 64M
+  name: InquisitiveMinds
+  random-route: true
+  routes:
+  - route: inquisitiveminds.eu-gb.cf.appdomain.cloud
